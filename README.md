@@ -41,5 +41,8 @@ Testing
 * Run test_RGB to inference saliency maps
 * Saliency maps generated from the RGB stream can be downnloaded from [here](https://pan.baidu.com/s/1egZM__Xs9BmnxxaVyiB4ug). Code: tb3y
 
+## Matlab code for stacking focal
+
+
 ## Contact and Questions
 Contact: Zhengkun Rong. Email: 18642840242@163.com or rzk911113@mail.dlut.edu.cn
